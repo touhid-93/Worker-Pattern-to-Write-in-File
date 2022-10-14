@@ -1,0 +1,8 @@
+worker - 3 - 3 using worker and server process - 14/Oct/2022 2:55 PM
+*5s delay*
+worker - 3 - internal --- text 100 - 14/Oct/2022 2:55 PM
+
+worker - 3 - internal --- text 5 - 14/Oct/2022 2:55 PM
+worker - 3 - internal --- text 7 - 14/Oct/2022 2:55 PM
+worker - 3 - internal --- text 8 - 14/Oct/2022 2:55 PM
+worker - 3 - Task Finished
